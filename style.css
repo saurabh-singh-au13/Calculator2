@@ -1,0 +1,63 @@
+.container{
+    text-align: center;
+    margin-top: 30px;
+    /* box-shadow: 2px 2px 15px rgba(0,0,0,0.3); */
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 32px;
+    border-radius: 10px;
+    border: 3px solid rgb(45, 70, 45);
+    background-color: rgb(242, 237, 215);
+
+}
+button {
+    border-radius: 20px;
+    font-size: 21px;
+    background-color: #e2d5d5;
+    width: 98px;
+    height: 65px;
+}
+.calculator{
+    display: inline-block;
+    background-color: #897853;
+    padding: 4px;
+    border-radius: 30px;
+    box-shadow: 91px 96px 18px rgb(0 0 0 / 30%);
+
+}
+h1{
+    color:#241208 ;
+    font-family:cursive
+}
+
+.equal2{
+    background-color: green;
+}
+.C{
+    background-color: red;
+}
+
+
+
+.Summary{
+    color: rgb(44, 20, 20);
+    float: left;
+    font-family: cursive;
+}
+body{
+    background-image:url("images/cal3.jpg") ;
+}
+
+.name{
+    color: red;
+    float: right;
+    font-family: cursive;
+    margin: 0px;
+    padding: 0px;
+    box-shadow: 12px 12px 10px rgb(44, 20, 20) ;
+}
